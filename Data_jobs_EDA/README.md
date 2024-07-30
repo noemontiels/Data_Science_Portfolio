@@ -9,6 +9,7 @@ This repository contains detailed analysis of the labour market in the data sect
 
 ## Repository structure <a name="id1"></a>
 - `data/`: Directory that stores all the data files used in the analysis.
+- `memory/`: Directory that stores the memory of the project in both English and Spanish version.
 - `notebooks/`: Directory containing the notebooks used for testing and exploratory analysis.
 - `utils/`: Directory that includes all the modules and auxiliary functions created for the development of the project.
 - `main.ipynb`: Main notebook that summarises all the analytics steps.
