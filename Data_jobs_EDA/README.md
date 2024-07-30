@@ -35,12 +35,12 @@ The main objective of this project is to analyse the labour market in the data s
 ### Best regions and countries to work in
 **California**, and in particular the cities of **San Francisco** and **Los Angeles**, stand out as the best regions to work in data science and machine learning. The combination of high salaries, a high concentration of technology companies and an abundant supply of jobs make this region the ideal destination for professionals in the sector.
 
+![Salary_maps](https://github.com/user-attachments/assets/190f582c-f241-49e1-95cc-8775af254f31)
+
  ### Determining factors
  Key factors that determine the preference for California include:
  - **Competitive salaries**: Especially in areas close to Silicon Valley.
  - **Number of vacancies**: Greater number of job opportunities.
  - **Concentration of companies**: Presence of numerous technology and research companies.
-
-
-
+   
 In summary, while the United States, and specifically California, stand out as the best places to work in the data science and machine learning sector, international comparison reveals attractive opportunities in other countries. Professionals should consider a combination of salary, work mode and growth opportunities when making career decisions.
