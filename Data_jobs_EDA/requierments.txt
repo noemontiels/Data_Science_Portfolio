@@ -1,0 +1,2 @@
+Enlace al proyecto en GitHub: 
+https://github.com/noemontiels/Data_Science_Portfolio/tree/main/Data_jobs_EDA
