@@ -5,9 +5,9 @@ Welcome to my Data Science Portfolio. In this portfolio, you will find a collect
 Please contact me on [Linkedin](linkedin.com/in/noelia-montiel-sánchez-82a8901b7/) if you are looking to hire a data scientist.
 
 ## **Projects**   
-1. [Analysis of labour market supply and demand in the data environment:Global wages and conditions](#id1)
+1. [Analysis of labour market supply and demand in the data environment: Global wages and conditions](#id1)
 
-## Analysis of labour market supply and demand in the data environment:Global wages and conditions <a name="id1"></a>
+## Analysis of labour market supply and demand in the data environment: Global wages and conditions <a name="id1"></a>
 
 This project focuses on labour market analysis in the data sector. The aim is to identify trends in labour supply and demand, compare wages and assess global labour conditions.
 
