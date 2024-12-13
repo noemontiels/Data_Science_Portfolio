@@ -6,6 +6,7 @@ Please contact me on [Linkedin](linkedin.com/in/noelia-montiel-sánchez-82a8901b
 
 ## **Projects**   
 1. [Analysis of labour market supply and demand in the data environment: Global wages and conditions](#id1)
+2. [Data-Driven Real Estate: Classifying properties based on investment potential](#id2)
 
 ## Analysis of labour market supply and demand in the data environment: Global wages and conditions <a name="id1"></a>
 
@@ -16,3 +17,12 @@ Data on job vacancies and salaries in the data sector were collected and cleaned
 ![Salary_maps](https://github.com/user-attachments/assets/0ed9286e-ca02-43e5-ba86-94bd4092f1bb)
 
 - **Keywords**: Labor market analysis, Data salaries, Job demand, Global trends, Remote work, Employment conditions, COVID-19 impact, Silicon Valley Bank, Data engineering, Data science.
+
+## Data-Driven Real Estate: Classifying properties based on investment potential <a name="id2"></a>
+
+This project focuses on leveraging Machine Learning to classify real estate properties based on their Return on Investment (ROI). The aim is to assist investors in identifying high-potential opportunities, optimizing portfolios, and minimizing risks.
+
+Data on property prices, sizes, locations, and amenities were collected, cleaned, and analyzed. A predictive model was developed using Logistic Regression to classify properties into three categories: Highly Profitable, Somewhat Profitable, and Not Profitable. Descriptive analyses and visualizations highlighted key trends and patterns in the real estate market.
+
+- **Keywords**: Real estate analysis, Machine Learning, Property classification, ROI optimization, Predictive modeling, Investment strategies, Urban vs suburban trends, Logistic Regression, Data-driven decisions.
+
